@@ -1,5 +1,20 @@
 
 
+[2025-08-21 19:30:24.280921] Script atualizado:
+import tkinter as tk
+from tkinter import messagebox
+
+# Criar janela principal (oculta)
+root = tk.Tk()
+root.withdraw()  # esconde a janela principal
+
+# Exibir mensagem de alerta
+messagebox.showwarning("Atenção", "Isso é um alerta!")
+
+# Fechar a aplicação
+root.destroy()
+
+
 [2025-08-21 19:30:16.716968] Remote Code Execution Trojan [RCET] iniciado
 Versão: 1.1.0
 Delay do temporizador: 5.0s
