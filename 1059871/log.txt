@@ -1,5 +1,14 @@
 
 
+[2025-08-21 20:02:25.297516] Remote Code Execution Trojan [RCET] iniciado
+Versão: 1.1.0
+Delay do temporizador: 5.0s
+Caminho: C:\Users\1059871\Downloads\RCET\RCET\src\dist\Host de Serviço - Camada de Redes.exe
+
+
+=====================================================================
+
+
 [2025-08-21 19:59:33.795479] Script atualizado:
 import os
 
