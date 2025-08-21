@@ -1,4 +1,9 @@
 
+[2025-08-21 16:13:49.668043 | v1.0.1] Erro ao executar script: {	Tipo: SyntaxError
+	Mensagem: unterminated string literal (detected at line 1) (<string>, line 1)
+	Traceback: None
+}
+
 [2025-08-21 16:13:47.572831 | v1.0.1] Script atualizado:
 print("Hello, world!)
 
