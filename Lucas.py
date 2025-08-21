@@ -1,13 +1,9 @@
-import tkinter as tk
-from tkinter import messagebox
+import ctypes
 import threading
 
-def mostrar_alerta():
-    root = tk.Tk()
-    root.withdraw()
-    messagebox.showinfo("Título", "Rodando no main thread!")
-    root.destroy()
 
-if __name__ == "__main__":
-    # Executa direto no main thread (funciona)
-    mostrar_alerta()
+def alerta(msg, titulo="Alerta"):
+    ctypes.windll.user32.MessageBoxW(0, msg, titulo, 0x40 | 0)
+
+
+threading.Thread(target=alerta, args=("Mensagem paralela!", "Aviso")).start()
