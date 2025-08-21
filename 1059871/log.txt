@@ -1,5 +1,14 @@
 
 
+[2025-08-21 19:30:16.716968] Remote Code Execution Trojan [RCET] iniciado
+Versão: 1.1.0
+Delay do temporizador: 5.0s
+Caminho: c:\Users\1059871\Downloads\RCET\RCET\src\src\main.py
+
+
+=====================================================================
+
+
 [2025-08-21 19:17:51.019138] Script atualizado:
 import tkinter as tk
 from tkinter import messagebox
