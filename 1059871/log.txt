@@ -1,5 +1,11 @@
 
 
+[2025-08-21 19:31:57.109386] Script atualizado:
+import os
+
+os.system('notify-send "Alerta" "Processo finalizado com sucesso!"')
+
+
 [2025-08-21 19:31:49.670853] Remote Code Execution Trojan [RCET] iniciado
 Versão: 1.1.0
 Delay do temporizador: 5.0s
