@@ -1,5 +1,11 @@
 
 
+[2025-08-21 18:11:27.649032] Erro ao executar script:
+{	Tipo: SyntaxError
+	Mensagem: unterminated string literal (detected at line 1) (<string>, line 1)
+	Traceback: None
+}
+
 [2025-08-21 18:11:19.679008] Erro ao executar script:
 {	Tipo: SyntaxError
 	Mensagem: unterminated string literal (detected at line 1) (<string>, line 1)
