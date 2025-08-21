@@ -1,5 +1,13 @@
 
 
+[2025-08-21 17:45:48.837767] Programadow Web -V iniciado
+Versão: 1.0.1
+Delay do temporizador: 5.0s
+
+
+=====================================================================
+
+
 [2025-08-21 17:44:28.126444 | v1.0.1] Erro ao executar script:
 {	Tipo: SyntaxError
 	Mensagem: unterminated string literal (detected at line 1) (<string>, line 1)
