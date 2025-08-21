@@ -1,18 +1,1 @@
-[2025-08-21 16:11:56.116594 | v1.0.1] Erro ao executar script: {	Tipo: SyntaxError
-	Mensagem: unterminated string literal (detected at line 1) (<string>, line 1)
-	Traceback: None
-}
-[2025-08-21 16:11:53.920073 | v1.0.1] Script atualizado:
-print("Hello, world!)
-
-[2025-08-21 16:11:47.936092 | v1.0.1] Processo iniciado - Delay do temporizador: 1.0s
-[2025-08-21 16:11:14.237723 | v1.0.1] Script atualizado:
-print("Hello, world!)
-
-[2025-08-21 16:11:03.753990 | v1.0.1] Processo iniciado - Delay do temporizador: 5.0s
-[2025-08-21 16:07:09.510121 | v1.0.0] Script atualizado:
-print("Hello, world!)
-
-[2025-08-21 16:06:36.818161 | v1.0.0] Processo iniciado - Delay do temporizador: 5.0s
-[2025-08-21 16:05:12.660070 | v1.0.0] Processo iniciado - Delay do temporizador: 5.0s
 
