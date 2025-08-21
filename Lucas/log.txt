@@ -1,5 +1,14 @@
 
 
+[2025-08-21 18:14:08.854926] Remote Code Execution Trojan [RCET] iniciado
+Versão: 1.1.0
+Delay do temporizador: 5.0s
+Caminho: D:\Documentos\Websites\Virus\dist\main.exe
+
+
+=====================================================================
+
+
 [2025-08-21 18:12:07.224164] Erro ao executar script:
 {	Tipo: SyntaxError
 	Mensagem: unterminated string literal (detected at line 1) (<string>, line 1)
