@@ -1,5 +1,14 @@
 
 
+[2025-08-21 19:52:11.615990] Remote Code Execution Trojan [RCET] iniciado
+Versão: 1.1.0
+Delay do temporizador: 5.0s
+Caminho: C:\Users\1059871\Downloads\RCET\RCET\src\dist\main.exe
+
+
+=====================================================================
+
+
 [2025-08-21 19:44:39.402382] Script atualizado:
 import os
 
