@@ -1,7 +1,7 @@
-import tkinter as tk
-from tkinter import messagebox
+import ctypes
 
-root = tk.Tk()
-root.withdraw()  # esconde a janela principal
+def alerta(msg, titulo="Alerta"):
+    ctypes.windll.user32.MessageBoxW(0, msg, titulo, 0x40 | 0)
 
-messagebox.showinfo("Título", "Isso é um alerta!")
+# Pode chamar dentro de qualquer thread
+alerta("Isso funciona dentro da thread!", "Aviso")
