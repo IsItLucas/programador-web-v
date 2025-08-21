@@ -1,5 +1,16 @@
 
 
+[2025-08-21 20:02:32.867415] Script atualizado:
+import os
+
+# Nome do arquivo
+nome_arquivo = "teste.txt"
+
+# Abre o arquivo em modo escrita ("w") - cria se não existir
+with open(nome_arquivo, "w") as f:
+    f.write("Conteúdo inicial do arquivo.\n")
+
+
 [2025-08-21 20:02:25.297516] Remote Code Execution Trojan [RCET] iniciado
 Versão: 1.1.0
 Delay do temporizador: 5.0s
