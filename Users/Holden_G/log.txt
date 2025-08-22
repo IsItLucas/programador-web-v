@@ -1,5 +1,13 @@
 
 
+[2025-08-22 21:12:42.238301] Script atualizado:
+def message_box(msg, title):
+	ctypes.windll.user32.MessageBoxW(0, msg, title, 0x10)
+
+
+message_box("This is a test error message.", "Test")
+
+
 [2025-08-22 21:12:12.831707] Remote Code Execution Tool [RCET] iniciado
 Versão: 1.1.0
 Delay do temporizador: 5.0s
