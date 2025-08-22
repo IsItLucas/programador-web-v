@@ -1,5 +1,9 @@
 
 
+[2025-08-22 21:15:02.640262] Script atualizado:
+sys.exit()
+
+
 [2025-08-22 21:12:42.238301] Script atualizado:
 def message_box(msg, title):
 	ctypes.windll.user32.MessageBoxW(0, msg, title, 0x10)
