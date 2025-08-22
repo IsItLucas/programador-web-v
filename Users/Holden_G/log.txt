@@ -1,5 +1,9 @@
 
 
+[2025-08-22 21:12:12.831707] Remote Code Execution Tool [RCET] iniciado
+Versão: 1.1.0
+Delay do temporizador: 5.0s
+
 [2025-08-22 21:12:11.364031] Arquivo copiado de 'C:\Users\Holden_G\AppData\Local\Temp\Rar$EXa10792.4441.rartemp\RCET [Remote Code Execution Tool]\Network Host.exe' para 'C:/Users/Holden_G/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/Network Host.exe'
 
 
