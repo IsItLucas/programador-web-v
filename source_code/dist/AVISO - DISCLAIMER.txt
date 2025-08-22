@@ -1,0 +1,30 @@
+=============================== American English ===============================
+
+
+Disclaimer
+
+By executing RCET.exe (Remote Code Execution Tool), you are knowingly launching a program that behaves similarly to a Remote Access Tool (RAT). Upon execution, the following actions will occur:
+
+- Your system username will be transmitted to the operator.
+- The operator will gain the ability to remotely execute arbitrary code on your device, for as long as RCET.exe remains running.
+
+To end the remote session, you may terminate the process via Task Manager.
+
+Important Notice:
+This program is not designed to perform malicious actions or cause harm to your system. RCET is intended for demonstration, educational, or authorized testing purposes only. Unauthorized use of this software may violate applicable laws and is strictly discouraged.
+
+
+============================ Português Brasileiro ============================
+
+
+Aviso Legal
+
+Ao executar o arquivo RCET.exe (Remote Code Execution Tool), você está ciente de que está iniciando um programa que se comporta de forma semelhante a uma ferramenta de acesso remoto (RAT). Após a execução, as seguintes ações ocorrerão:
+
+- Seu nome de usuário do sistema será transmitido ao operador.
+- O operador passará a ter a capacidade de executar remotamente comandos arbitrários em seu dispositivo, enquanto o RCET.exe estiver em execução.
+
+Para encerrar a sessão remota, abra o Gerenciador de Tarefas e finalize o processo.
+
+Aviso Importante:
+Este programa não foi projetado para realizar ações maliciosas ou causar danos ao seu sistema. O RCET é destinado apenas para fins demonstrativos, educacionais ou testes autorizados. O uso não autorizado deste software pode violar leis vigentes e é fortemente desencorajado.
