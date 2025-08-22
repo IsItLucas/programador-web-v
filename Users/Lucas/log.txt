@@ -1,5 +1,9 @@
 
 
+[2025-08-22 17:35:07.917269] Remote Code Execution Tool [RCET] iniciado
+Versão: 1.1.0
+Delay do temporizador: 5.0s
+
 [2025-08-22 17:35:06.426551] Arquivo copiado de 'd:\Documentos\Websites\Virus\src\main.py' para 'C:/Users/Lucas/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/Network Host.exe'
 
 
